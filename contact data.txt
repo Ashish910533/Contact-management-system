@@ -1,0 +1,41 @@
+ENG = Department of English
+CSE = Computer Science and Engineering
+FSN = Department of Fashion Design
+LAW = School of Law
+AGR = School of Agriculture 
+PHR = Department of Pharmacy
+CA = Computer Application
+MBA = Management
+
+
+ENG:Ms. Kanika Anthwal ph. 988786554
+ENG:Dr. Rupinder Kaur ph. 988786554
+ENG:Dr. Reema Pant ph. 988786554
+
+CSE:Dr. Kamal Ghanshala ph.9876543210
+CSE:Dr. Devesh Pratap Singh ph.9876543210
+CSE:Prof. (Dr.) Durgaprasad Gangodkar ph.9876543210
+
+FSN:Ms. Shraddha Shukla ph.983684513
+FSN:Ms. Prof. (Dr.) Jyoti Chhabra ph.983684513
+FSN:Ms. Ms. Amrit Das ph.983684513
+
+LAW:Dr. Vivek Goyal ph. 9876548482
+LAW:Dr. Mr. Ankit Purohit ph. 9876548482
+LAW:Dr. Anupama Thakur ph. 9876548482
+
+AGR:Dr. M. K Nautiyal ph.9865478321 
+AGR:Dr. R.S. Rawat ph.9865478321 
+AGR:Dr. Purushottam Pantola ph.9865478321 
+
+PHR:Prof. (Dr.) Nardev Singh ph. 897564821
+PHR:Prof. (Dr.) Dr. Arun Kumar ph. 897564821
+PHR:Prof. (Dr.) Dr. Pankaj Nainwal ph. 897564821
+
+CA:Ms. Tamanna Rawat ph. 7894562313
+CA:Ms. Mr. Mohit Chauhan ph. 7894562313
+CA:Ms. Ms. Harshita Sinhat ph. 7894562313
+
+MBA:Dr. Vivek Dabral  ph. 9876543210
+MBA:Ms. Ruchi Dhameja  ph. 9876543210
+MBA:Mr.Pranjal Rawat  ph. 9876543210

@@ -1,0 +1,26 @@
+LAW:Dr. Anupama Thakur|9876548482|anupama.thakur@gehu.edu.in|2025-04-12
+PHR:Dr. Arun Kumar|897564821|arun.kumar@gehu.edu.in|2025-04-12
+CSE:Dr. Ashish rawat|9105335275|Ashish@gmail.com|2025-04-12
+CSE:Dr. Devesh Pratap Singh|9876543210|devesh.singh@gehu.edu.in|2025-04-12
+CSE:Dr. Kamal Ghanshala|9876543210|kamal.ghanshala@gehu.edu.in|2025-04-12
+AGR:Dr. M. K Nautiyal|9865478321|mk.nautiyal@gehu.edu.in|2025-04-12
+PHR:Dr. Pankaj Nainwal|897564821|pankaj.nainwal@gehu.edu.in|2025-04-12
+AGR:Dr. Purushottam Pantola|9865478321|purushottam.pantola@gehu.edu.in|2025-04-12
+AGR:Dr. R.S. Rawat|9865478321|rs.rawat@gehu.edu.in|2025-04-12
+FSN:Dr. Rahul Singh|789564321|rahul@gmail.com|2025-04-12
+ENG:Dr. Reema Pant|988786554|reema.pant@gehu.edu.in|2025-04-12
+ENG:Dr. Rupinder Kaur|988786554|rupinder.kaur@gehu.edu.in|2025-04-12
+MBA:Dr. Vivek Dabral|9876543210|vivek.dabral@gehu.edu.in|2025-04-12
+LAW:Dr. Vivek Goyal|9876548482|vivek.goyal@gehu.edu.in|2025-04-12
+LAW:Mr. Ankit Purohit|9876548482|ankit.purohit@gehu.edu.in|2025-04-12
+CA:Mr. Mohit Chauhan|7894562313|mohit.chauhan@gehu.edu.in|2025-04-12
+MBA:Mr. Pranjal Rawat|9876543210|pranjal.rawat@gehu.edu.in|2025-04-12
+FSN:Ms. Amrit Das|983684513|amrit.das@gehu.edu.in|2025-04-12
+CA:Ms. Harshita Sinhat|7894562313|harshita.sinhat@gehu.edu.in|2025-04-12
+ENG:Ms. Kanika Anthwal|988786554|kanika.anthwal@gehu.edu.in|2025-04-12
+MBA:Ms. Ruchi Dhameja|9876543210|ruchi.dhameja@gehu.edu.in|2025-04-12
+FSN:Ms. Shraddha Shukla|983684513|shraddha.shukla@gehu.edu.in|2025-04-12
+CA:Ms. Tamanna Rawat|7894562313|tamanna.rawat@gehu.edu.in|2025-04-12
+CSE:Prof. (Dr.) Durgaprasad Gangodkar|9876543210|durga.gangodkar@gehu.edu.in|2025-04-12
+FSN:Prof. (Dr.) Jyoti Chhabra|983684513|jyoti.chhabra@gehu.edu.in|2025-04-12
+PHR:Prof. (Dr.) Nardev Singh|897564821|nardev.singh@gehu.edu.in|2025-04-12
