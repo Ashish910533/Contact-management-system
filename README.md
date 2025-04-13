@@ -57,12 +57,7 @@ Copy code
 sudo apt install nodejs npm
 Clone the frontend repo (if separate):
 
-bash
-Copy code
-git clone https://github.com/yourusername/contact-manager-web
-cd contact-manager-web
 Install dependencies:
-
 bash
 Copy code
 npm install
